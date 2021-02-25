@@ -1,16 +1,30 @@
 ---
-layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+layout: about
+title: about
+permalink: /
+description: Université Paris-Saclay, CentraleSupélec, MICS <a href = 'https://www.linkedin.com/in/mathilde-sautreuil-42612aa6'> <span class = 'fab fa-linkedin'> </span></a> <a href = 'https://www.linkedin.com/in/mathilde-sautreuil-42612aa6'> <span class = 'fab fa-github-square'></span> </a>
+
+profile:
+  align: right
+  image: photo_modif.JPG
+  address: >
+    <p>555 your office number</p>
+    <p>123 your address street</p>
+    <p>Your City, State 12345</p>
+
+news: true  # includes a list of news items
+selected_papers: true # includes a list of papers marked as "selected={true}"
+social: true  # includes social icons at the bottom of the page
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Currently, I am an Resaearch engineer within Statistique and genome of the [LaMME}(http://www.math-evry.cnrs.fr/welcome){:target="\_blank"} at Evry University and Gnet team of the IPS2 (Plant institute of Paris-Saclay). My research work consists to detect PPR footprints by using machine learning methods at Arabidopsis Thaliana.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Previously, I was a PhD student within <a href = 'http://biomathematics.mics.centralesupelec.fr/'>Biomathematics</a> team of the [MICS](http://mics.centralesupelec.fr/en/){:target="\_blank"} laboratory at CentraleSupélec (Paris-Saclay University) supervised by Paul-Henry Cournède and Sarah Lemler. My reasearch works focused on the survival analysis and the marker detection in Oncology. I use machine learning and statistical methods to predict the survival duration and detect the biomarkers in high-dimension.
+                                        
+I did an two-year's apprenticeship at both [LMRS](http://lmrs.univ-rouen.fr/){:target="\_blank"} (Laboratoire Mathématiques Raphaël Salem) and [LITIS](https://www.litislab.fr/accueil){:target="\_blank"} (Laboratoire d'Infomratique et traitement de l'information et des systèmes). My principle work was to develop mixture models bivariate Negative Binomiale for RNA-seq data. In addition, I developed an R package for the simulation and estimation of Markov and Semi-Markov models and a Shiny application for the processing of qRT-PCR data called [PROqPCR](https://qpcrapp.shinyapps.io/proqpcr/){:target="\_blank"}
 
-What else do you need?
+Contact information:
+CentraleSupélec - Bouygues building <br/> Office sb.129 <br/> 3 rue Joliot Curie <br/> 91190 Gif-sur-Yvette, France <br/>
+<span class = 'glyphicon glyphicon-envelope'></span><a href = 'mailto:mathilde.sautreuil@centralesupelec.fr'> mathilde(dot)sautreuil(at)centralesupelec(dot)fr</a>"
+                                        
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
