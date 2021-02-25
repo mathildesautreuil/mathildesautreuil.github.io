@@ -37,12 +37,12 @@ avatar: "photo_modif.JPG"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#96023C" #"#F5F5F5"
+navbar-col: "#ebbcde" #"#96023C" #"#F5F5F5"
 navbar-text-col: "#404040"
 navbar-children-col: "#F5F5F5"
 page-col: "#FFFFFF"
-link-col: "#d175b8" #"#008AFF"
-hover-col: "#96023C" #"#0085A1"
+link-col: "#96023C" #"#d175b8" #"#008AFF"
+hover-col: "#d175b8" #"#96023C" #"#0085A1"
 footer-col: "#F5F5F5"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
