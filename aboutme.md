@@ -1,6 +1,6 @@
 ---
-layout: about
-title: about
+layout: aboutme
+title: aboutme
 permalink: /
 description: Université Paris-Saclay, CentraleSupélec, MICS <a href = 'https://www.linkedin.com/in/mathilde-sautreuil-42612aa6'> <span class = 'fab fa-linkedin'> </span></a> <a href = 'https://www.linkedin.com/in/mathilde-sautreuil-42612aa6'> <span class = 'fab fa-github-square'></span> </a>
 
@@ -11,10 +11,6 @@ profile:
     <p>555 your office number</p>
     <p>123 your address street</p>
     <p>Your City, State 12345</p>
-
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
 ---
 
 Currently, I am an Resaearch engineer within Statistique and genome of the [LaMME}(http://www.math-evry.cnrs.fr/welcome){:target="\_blank"} at Evry University and Gnet team of the IPS2 (Plant institute of Paris-Saclay). My research work consists to detect PPR footprints by using machine learning methods at Arabidopsis Thaliana.
