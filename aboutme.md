@@ -1,16 +1,7 @@
 ---
-layout: aboutme
-title: aboutme
-permalink: /
+layout: page
+title: About me
 description: Université Paris-Saclay, CentraleSupélec, MICS <a href = 'https://www.linkedin.com/in/mathilde-sautreuil-42612aa6'> <span class = 'fab fa-linkedin'> </span></a> <a href = 'https://www.linkedin.com/in/mathilde-sautreuil-42612aa6'> <span class = 'fab fa-github-square'></span> </a>
-
-profile:
-  align: right
-  image: photo_modif.JPG
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 ---
 
 Currently, I am an Resaearch engineer within Statistique and genome of the [LaMME}(http://www.math-evry.cnrs.fr/welcome){:target="\_blank"} at Evry University and Gnet team of the IPS2 (Plant institute of Paris-Saclay). My research work consists to detect PPR footprints by using machine learning methods at Arabidopsis Thaliana.
@@ -21,6 +12,6 @@ I did an two-year's apprenticeship at both [LMRS](http://lmrs.univ-rouen.fr/){:t
 
 Contact information:
 CentraleSupélec - Bouygues building <br/> Office sb.129 <br/> 3 rue Joliot Curie <br/> 91190 Gif-sur-Yvette, France <br/>
-<span class = 'glyphicon glyphicon-envelope'></span><a href = 'mailto:mathilde.sautreuil@centralesupelec.fr'> mathilde(dot)sautreuil(at)centralesupelec(dot)fr</a>"
+<span class = 'glyphicon glyphicon-envelope'></span><a href = 'mailto:mathilde.sautreuil@centralesupelec.fr'> mathilde(dot)sautreuil(at)centralesupelec(dot)fr</a>
                                         
 
