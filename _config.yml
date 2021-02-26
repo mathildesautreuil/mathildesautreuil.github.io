@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: About me
+title: Home
 
 # Short description of your site
 description: Professional webpage
@@ -97,7 +97,7 @@ social-network-links:
 #igtag: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: "mathilde.sautreuil"
+google_analytics: "mathilde sautreuil"
 
 # Google Tag Manager ID
 #gtm: ""
