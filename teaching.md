@@ -3,7 +3,7 @@ layout: page
 ---
 
 <div class="text-center">
-  <h2>  Teaching (in french)</h2>
+  <h1>  Teaching (in french)</h1>
   </div>
     <br/>
 

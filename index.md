@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About me
 ---
 
 <div class="text-center">
-  <h3> Mathilde Sautreuil</h3>
+  <h1> About me</h1>
+  <h2> Mathilde Sautreuil</h2>
 </div>
   <br/>
   
