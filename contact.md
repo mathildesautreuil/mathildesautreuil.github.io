@@ -1,9 +1,14 @@
 ---
 layout: page
-title: Contact
 ---
 
+<div class="text-center">
+  <h1>  Contact</h1>
+  </div>
+
+
 <div class="text-left">
+
     <br/>
     <br/><br/><br/>
 
