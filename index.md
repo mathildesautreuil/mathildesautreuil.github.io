@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mathilde Sautreuil
+subtitle: Mathilde Sautreuil
 ---
 
 Currently, I am an research engineer within Statistics and genome of the [LaMME](http://www.math-evry.cnrs.fr/welcome){:target="\_blank"} at Evry University and Gnet team of the IPS2 (Plant institute of Paris-Saclay). My research work consists to detect PPR footprints by using machine learning methods at Arabidopsis Thaliana.
