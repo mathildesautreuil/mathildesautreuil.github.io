@@ -1,7 +1,12 @@
 ---
 layout: page
-subtitle: Teaching (in french)
 ---
+
+<div class="text-center">
+  <h2>  Teaching (in french)</h2>
+  </div>
+    <br/>
+
 
 * 2018-2021 Enseignante vacataire, M2 Bioinformatique, Université de Rouen, Normandie Université, Création de supports : 
 1. Cours Introduction à Shiny (Framework d'applications web R)/TP de Shiny (R)
