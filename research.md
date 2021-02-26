@@ -1,7 +1,11 @@
 ---
 layout: page
-title: Research
 ---
+
+<div class="text-center">
+  <h1>  Research</h1>
+    </div>
+
 
 # Publications
 
