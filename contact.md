@@ -1,11 +1,9 @@
 ---
 layout: page
+title: Contact
 ---
 
-<div class="text-center">
-  <h1>  Contact</h1>
-  </div>
-
+<!---<div class="text-center">  <h1>  Contact</h1>  </div>--->
 
 <div class="text-left">
 
@@ -25,7 +23,7 @@ layout: page
 
 
   +33 (0)6 19 97 91 24  <br/>
-  <span class = 'glyphicon glyphicon-envelope'></span><a href = 'mailto:mathilde.sautreuil@centralesupelec.fr'> mathilde(dot)sautreuil(at)centralesupelec(dot)fr</a>
+  <span class = 'glyphicon glyphicon-envelope'></span><a href = 'mailto:mathilde.sautreuil@gmail.com'> mathilde(dot)sautreuil(at)gmail(dot)com</a>
     <br/>  <br/>
       <br/>
         <br/>

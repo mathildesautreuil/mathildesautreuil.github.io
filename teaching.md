@@ -5,6 +5,7 @@ layout: page
 <div class="text-center">
   <h1>  Teaching (in french)</h1>
   <br/>
+  <br/>
   </div>
   
 
