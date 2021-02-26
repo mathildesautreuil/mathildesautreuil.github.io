@@ -1,10 +1,9 @@
 ---
 layout: page
-title: About me
-description: Université Paris-Saclay, CentraleSupélec, MICS <a href = 'https://www.linkedin.com/in/mathilde-sautreuil-42612aa6'> <span class = 'fab fa-linkedin'> </span></a> <a href = 'https://www.linkedin.com/in/mathilde-sautreuil-42612aa6'> <span class = 'fab fa-github-square'></span> </a>
+title: Mathilde Sautreuil
 ---
 
-Currently, I am a Research engineer within Statistique and genome of the [LaMME](http://www.math-evry.cnrs.fr/welcome){:target="\_blank"} at Evry University and Gnet team of the IPS2 (Plant institute of Paris-Saclay). My research work consists to detect PPR footprints by using machine learning methods at Arabidopsis Thaliana.
+Currently, I am an research engineer within Statistics and genome of the [LaMME](http://www.math-evry.cnrs.fr/welcome){:target="\_blank"} at Evry University and Gnet team of the IPS2 (Plant institute of Paris-Saclay). My research work consists to detect PPR footprints by using machine learning methods at Arabidopsis Thaliana.
 
 Previously, I was a PhD student within <a href = 'http://biomathematics.mics.centralesupelec.fr/'>Biomathematics</a> team of the [MICS](http://mics.centralesupelec.fr/en/){:target="\_blank"} laboratory at CentraleSupélec (Paris-Saclay University) supervised by Paul-Henry Cournède and Sarah Lemler. My reasearch works focused on the survival analysis and the marker detection in Oncology. I use machine learning and statistical methods to predict the survival duration and detect the biomarkers in high-dimension.
                                         
