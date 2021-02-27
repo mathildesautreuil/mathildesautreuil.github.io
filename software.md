@@ -6,13 +6,13 @@ recon-list:
     github: https://github.com/reconhub/distcrete
     url: https://cran.r-project.org/web/packages/SMM/index.html
     website: https://cran.r-project.org/web/packages/SMM/index.html
-    img: /img/logoR.png
+    img: img/logoR.png
 upcoming-list:
   - name: survMS
     desc: Survival models simulation.
-    github: https://gitlab-research.centralesupelec.fr/2017sautreuim/survms
+    gitlab: https://gitlab-research.centralesupelec.fr/2017sautreuim/survms
     url: https://gitlab-research.centralesupelec.fr/2017sautreuim/survms
-    img: /img/logoR.png
+    img: img/logoR.png
 ---
 
 
