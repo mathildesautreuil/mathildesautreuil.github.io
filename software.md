@@ -10,13 +10,18 @@ recon-list:
     url: https://qpcrapp.shinyapps.io/proqpcr/
     github: https://github.com/mathildesautreuil/proqpcr
     website: https://qpcrapp.shinyapps.io/proqpcr/
-    img: img/r-shiny-logo.png
+    img: img/shiny.png
 upcoming-list:
   - name: survMS
     desc: Survival models simulation.
     gitlab: https://gitlab-research.centralesupelec.fr/2017sautreuim/survms
     website: https://gitlab-research.centralesupelec.fr/2017sautreuim/survms
     img: img/logoR.png
+  - name: NNsurv
+    desc: Neural networks based on discrete time model to predict the survival duration.
+    gitlab: https://gitlab-research.centralesupelec.fr/2017sautreuim/
+    website: https://gitlab-research.centralesupelec.fr/2017sautreuim/
+    img: img/python.jpg		  
 ---
 
 <div class="text-center">
