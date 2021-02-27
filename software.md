@@ -4,24 +4,24 @@ recon-list:
     desc: Simulation and Estimation of Multi-State Discrete-Time Semi-Markov and Markov Models.
     url: https://cran.r-project.org/web/packages/SMM/index.html
     website: https://cran.r-project.org/web/packages/SMM/index.html
-    img: ../img/404.png
+    img: ../img/logoR.png
   - name: PROqPCR
     desc: PROcessing of qRT-PCR data.
     url: https://qpcrapp.shinyapps.io/proqpcr/
     github: https://github.com/mathildesautreuil/proqpcr
     website: https://qpcrapp.shinyapps.io/proqpcr/
-    img: img/shiny.png
+    img: ../img/shiny.png
 upcoming-list:
   - name: survMS
     desc: Survival models simulation.
     gitlab: https://gitlab-research.centralesupelec.fr/2017sautreuim/survms
     website: https://gitlab-research.centralesupelec.fr/2017sautreuim/survms
-    img: img/logoR.png
+    img: ../img/logoR.png
   - name: NNsurv
     desc: Neural networks based on discrete time model to predict the survival duration.
     gitlab: https://gitlab-research.centralesupelec.fr/2017sautreuim/
     website: https://gitlab-research.centralesupelec.fr/2017sautreuim/
-    img: img/python.jpg		  
+    img: ../img/python.jpg		  
 ---
 
 <div class="text-center">
