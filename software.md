@@ -9,7 +9,7 @@ recon-list:
     img: /img/logoR.png
 upcoming-list:
   - name: survMS
-    desc: Simulation of survival models.
+    desc: Survival models simulation.
     github: https://gitlab-research.centralesupelec.fr/2017sautreuim/survms
     url: https://gitlab-research.centralesupelec.fr/2017sautreuim/survms
     img: /img/logoR.png
