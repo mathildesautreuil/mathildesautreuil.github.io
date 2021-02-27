@@ -11,7 +11,7 @@ upcoming-list:
   - name: survMS
     desc: Survival models simulation.
     gitlab: https://gitlab-research.centralesupelec.fr/2017sautreuim/survms
-    url: https://gitlab-research.centralesupelec.fr/2017sautreuim/survms
+    website: https://gitlab-research.centralesupelec.fr/2017sautreuim/survms
     img: img/logoR.png
 ---
 
@@ -43,8 +43,8 @@ already, but a stable version has yet to be released.
 
 <br>
 
-## Related packages
+<!--- ## Related packages --->
 
 <!--- The packages listed below mostly predate RECON, but have been authored by RECON members and are relevant for infectious disease epidemiology.--->
 
-{% include list-circles.html items=page.related-list %}
+<!--- {% include list-circles.html items=page.related-list %}--->

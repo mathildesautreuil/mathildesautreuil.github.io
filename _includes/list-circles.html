@@ -24,7 +24,12 @@
           <a class="item-link" href="{{ item.github }}" title="GitHub">
             <span class="fa fa-github"></span>
           </a>
-        {% endif %}
+          {% endif %}
+	  {% if item.gitlab %}
+	  <a class="item-link" href="{{ item.gitlab }}" title="GitLab">
+	    <span class="fa fa-gitlab"></span>
+	  </a>
+	  {% endif %}
         {% if item.twitter %}
           <a class="item-link" href="{{ item.twitter }}" title="Twitter">
             <span class="fa fa-twitter"></span>
