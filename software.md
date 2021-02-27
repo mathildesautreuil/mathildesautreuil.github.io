@@ -5,12 +5,18 @@ recon-list:
     url: https://cran.r-project.org/web/packages/SMM/index.html
     website: https://cran.r-project.org/web/packages/SMM/index.html
     img: ./img/404.png
+  - name: PROqPCR
+    desc: PROcessing of qRT-PCR data.
+    url: https://qpcrapp.shinyapps.io/proqpcr/
+    github: https://github.com/mathildesautreuil/proqpcr
+    website: https://qpcrapp.shinyapps.io/proqpcr/
+    img: img/r-shiny-logo.png
 upcoming-list:
   - name: survMS
     desc: Survival models simulation.
     gitlab: https://gitlab-research.centralesupelec.fr/2017sautreuim/survms
     website: https://gitlab-research.centralesupelec.fr/2017sautreuim/survms
-    img: /img/logoR.png
+    img: img/logoR.png
 ---
 
 <div class="text-center">
