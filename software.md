@@ -4,7 +4,7 @@ recon-list:
     desc: Simulation and Estimation of Multi-State Discrete-Time Semi-Markov and Markov Models.
     url: https://cran.r-project.org/web/packages/SMM/index.html
     website: https://cran.r-project.org/web/packages/SMM/index.html
-    img: ./img/404.png
+    img: ../img/404.png
   - name: PROqPCR
     desc: PROcessing of qRT-PCR data.
     url: https://qpcrapp.shinyapps.io/proqpcr/
