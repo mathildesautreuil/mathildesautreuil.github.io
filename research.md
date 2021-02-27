@@ -21,7 +21,7 @@ layout: page
 3. Mathilde Sautreuil, Caroline Bérard, Gaëlle Chagny, Antoine Channarond, Angelina Roche, Nicolas Vergne, *Modèle de mélange binomial négatif bivarié pour l'analyse de données RNA-Seq*, JDS, 2018, Paris. [[hal]](https://hal.archives-ouvertes.fr/hal-02337265/)
 4. Vlad Stefan Barbu, Caroline Bérard, Dominique Cellier, Mathilde Sautreuil, Nicolas Vergne. *Estimation paramétrique des chaînes semi-markoviennes pour des données censurées*, JDS, 2017, Avignon. [[hal]](https://hal.archives-ouvertes.fr/hal-02337254/)
 
-### Communications
+### Talks
 
 * 2020, StatMod (Statistical Modeling with Applications), Bucharest (Romania).
 * 2019, 50èmes Journées de Statistique (JDS2019), Nancy.
