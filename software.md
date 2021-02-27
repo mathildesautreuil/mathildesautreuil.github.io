@@ -3,7 +3,6 @@ title: Softwares
 recon-list:
   - name: SMM
     desc: Simulation and Estimation of Multi-State Discrete-Time Semi-Markov and Markov Models.
-    github: https://github.com/reconhub/distcrete
     url: https://cran.r-project.org/web/packages/SMM/index.html
     website: https://cran.r-project.org/web/packages/SMM/index.html
     img: img/logoR.png
