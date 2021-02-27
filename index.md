@@ -19,5 +19,4 @@ I did an two-year's apprenticeship at both [LMRS](http://lmrs.univ-rouen.fr/){:t
 <br>
 
 [Manuscrit](img/manuscrit_MSautreuil.pdf)
-
 [Slides of PhD defense](img/soutenance_MSautreuil.pdf)
