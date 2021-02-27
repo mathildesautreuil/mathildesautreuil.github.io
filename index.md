@@ -9,7 +9,7 @@ layout: page
 </div>
   <br/>
   
-Currently, I am an **research engineer** within Statistics and genome of the [LaMME](http://www.math-evry.cnrs.fr/welcome){:target="\_blank"} at Evry University and [Gnet team](http://www.ips2.universite-paris-saclay.fr/en/research/pmin-department-plant-microbe-interactions-and-networks-biotic-interactions/gnet-genomics-networks.html) of the IPS2 (Plant institute of Paris-Saclay). My research work consists to detect PPR footprints by using machine learning methods at Arabidopsis Thaliana.
+Currently, I am a **research engineer** within Statistics and genome of the [LaMME](http://www.math-evry.cnrs.fr/welcome){:target="\_blank"} at Evry University and [Gnet team](http://www.ips2.universite-paris-saclay.fr/en/research/pmin-department-plant-microbe-interactions-and-networks-biotic-interactions/gnet-genomics-networks.html) of the IPS2 (Plant institute of Paris-Saclay). My research work consists to detect PPR footprints by using machine learning methods at Arabidopsis Thaliana.
 
 Previously, I was a **PhD student** within <a href = 'http://biomathematics.mics.centralesupelec.fr/en'>Biomathematics</a> team of the [MICS](http://mics.centralesupelec.fr/en/){:target="\_blank"} laboratory at CentraleSupélec (Paris-Saclay University) supervised by [Paul-Henry Cournède](https://scholar.google.fr/citations?hl=fr&user=LGr1sroAAAAJ&view_op=list_works&sortby=pubdate) and [Sarah Lemler](https://sites.google.com/view/sarah-lemler). My reasearch works focused on the survival analysis and the marker detection in Oncology. I use machine learning and statistical methods to predict the survival duration and detect the biomarkers in high-dimension.
                                         
@@ -18,5 +18,4 @@ I did an two-year's apprenticeship at both [LMRS](http://lmrs.univ-rouen.fr/){:t
 [Curriculum Vitae (in french)](img/cv_MSautreuil.pdf)
 <br>
 
-[Manuscrit](img/manuscrit_MSautreuil.pdf)
-[Slides of PhD defense](img/soutenance_MSautreuil.pdf)
+[Manuscrit](img/manuscrit_MSautreuil.pdf) and [Slides of PhD defense](img/soutenance_MSautreuil.pdf)
