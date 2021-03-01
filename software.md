@@ -18,7 +18,7 @@ upcoming-list:
     website: https://gitlab-research.centralesupelec.fr/2017sautreuim/survms
     img: ../img/R.png
   - name: NNsurv
-    desc: Python library Neural networks based on discrete time model to predict the survival duration.
+    desc: Neural networks based on discrete time model to predict the survival duration (Python library).
     gitlab: https://gitlab-research.centralesupelec.fr/2017sautreuim/
     website: https://gitlab-research.centralesupelec.fr/2017sautreuim/
     img: ../img/python.png		  
@@ -43,10 +43,11 @@ released on CRAN.
 
 <br>
 
-## Up-and-coming packages
+## In progress packages
 
-The packages listed below are still in development. They may be functional
-already, but a stable version has yet to be released.
+The packages listed below are still in finalisation. They are functional already, but a stable version has yet to be released.
+
+<!--- Up-and-coming packages The packages listed below are still in development. They may be functional already, but a stable version has yet to be released.--->
 
 {% include list-circles.html items=page.upcoming-list %}
 
