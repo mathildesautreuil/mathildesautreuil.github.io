@@ -15,7 +15,7 @@ upcoming-list:
   - name: survMS
     desc: R package for Survival models simulation.
     gitlab: https://gitlab-research.centralesupelec.fr/2017sautreuim/survms
-    website: https://gitlab-research.centralesupelec.fr/2017sautreuim/survms
+    website: https://mathildesautreuil.github.io/survMS/
     img: ../img/R.png
   - name: NNsurv
     desc: Neural networks based on discrete time model to predict the survival duration (Python library).
