@@ -14,7 +14,7 @@ recon-list:
 upcoming-list:
   - name: survMS
     desc: R package for Survival models simulation.
-    gitlab: https://gitlab-research.centralesupelec.fr/2017sautreuim/survms
+    gitlab: https://gitlab-research.centralesupelec.fr/2017sautreuim/survie
     website: https://mathildesautreuil.github.io/survMS/
     img: ../img/R.png
   - name: NNsurv
