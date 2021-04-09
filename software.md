@@ -19,8 +19,8 @@ upcoming-list:
     img: ../img/R.png
   - name: NNsurv
     desc: Neural networks based on discrete time model to predict the survival duration (Python library).
-    gitlab: https://gitlab-research.centralesupelec.fr/2017sautreuim/
-    website: https://gitlab-research.centralesupelec.fr/2017sautreuim/
+    github: https://github.com/mathildesautreuil/NNsurv
+    website: https://mathildesautreuil.github.io/NNsurv/
     img: ../img/python.png		  
 ---
 
