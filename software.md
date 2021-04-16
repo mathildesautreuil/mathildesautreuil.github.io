@@ -1,5 +1,12 @@
 ---
 recon-list:
+  - name: survMS
+    desc: R package for survival Models Simulation.
+    url: https://mathildesautreuil.github.io/survMS/
+    gitlab: https://gitlab-research.centralesupelec.fr/2017sautreuim/survie
+    github: https://github.com/mathildesautreuil/survMS
+    website: https://CRAN.R-project.org/package=survMS
+    img: ../img/survMS.png
   - name: SMM
     desc: R package for Simulation and Estimation of Multi-State Discrete-Time Semi-Markov and Markov Models.
     url: https://cran.r-project.org/web/packages/SMM/index.html
