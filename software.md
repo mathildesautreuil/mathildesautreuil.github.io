@@ -19,13 +19,6 @@ recon-list:
     website: https://qpcrapp.shinyapps.io/proqpcr/
     img: ../img/shiny.png
 upcoming-list:
-  - name: survMS
-    desc: R package for survival Models Simulation.
-    url: https://mathildesautreuil.github.io/survMS/
-    gitlab: https://gitlab-research.centralesupelec.fr/2017sautreuim/survie
-    github: https://github.com/mathildesautreuil/survMS
-    website: https://mathildesautreuil.github.io/survMS/
-    img: ../img/R.png
   - name: NNsurv
     desc: Neural networks based on discrete time model to predict the survival duration (Python library).
     url: https://mathildesautreuil.github.io/NNsurv/
