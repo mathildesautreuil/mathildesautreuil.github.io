@@ -17,7 +17,7 @@ recon-list:
     url: https://qpcrapp.shinyapps.io/proqpcr/
     github: https://github.com/mathildesautreuil/proqpcr
     website: https://qpcrapp.shinyapps.io/proqpcr/
-    img: ../img/shiny.png
+    img: ../img/proqpcr.png
 upcoming-list:
   - name: NNsurv
     desc: Neural networks based on discrete time model to predict the survival duration (Python library).
