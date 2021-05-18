@@ -9,7 +9,8 @@ layout: page
 
 ### Publications
 
-1. Mathilde Sautreuil, Sarah Lemler, Paul-Henry Cournède, *Benchmarking the Stability of Variable Selection Methods in the Cox Model*, in progress. <!---[[Journal]](https://link-springer-com.insb.bib.cnrs.fr/article/10.1007%2Fs00262-020-02530-x)--->
+1. Mathilde Sautreuil, Sarah Lemler, Paul-Henry Cournède, *Benchmarking the Stability of Variable Selection Methods in the Cox Model*, in progress.
+<!---[[Journal]](https://link-springer-com.insb.bib.cnrs.fr/article/10.1007%2Fs00262-020-02530-x)--->
 <!---2. Mathilde Sautreuil, Sarah Lemler, Paul-Henry Cournède, *Neural network for survival analysis*, in progress. <!---[[Journal]](--->--->
 2. Mathilde Sautreuil, Sarah Lemler, Paul-Henry Cournède, *Neural networks to predict survival from RNA-seq data in oncology*, submitted to CMSB2021 [[hal]](https://hal-centralesupelec.archives-ouvertes.fr/hal-03224492/document)
 3. Diana Tronik-Le Roux, Mathilde Sautreuil, Mahmoud Bentriou, *et al.*, *Comprehensive landscape of immune-checkpoints uncovered in clear cell renal cell carcinoma reveals new and emerging therapeutic targets*, Cancer Immunology, Immunotherapy, 2020. [[Journal]](https://link-springer-com.insb.bib.cnrs.fr/article/10.1007%2Fs00262-020-02530-x)
