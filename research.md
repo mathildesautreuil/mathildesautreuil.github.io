@@ -28,8 +28,8 @@ layout: page
 
 ### Talks
 
-* 2021, CMSB (19th International Conference on Computational Methods in Systems Biology), Bordeaux (France).
-* 2021, EYSM (22nd European Young Statisticians Meeting), Athens (Greece).
+* 2021, 19th International Conference on Computational Methods in Systems Biology (CMSB2021), Bordeaux.
+* 2021, 22nd European Young Statisticians Meeting (EYSM2021), Athens (Greece).
 * 2020, StatMod (Statistical Modeling with Applications), Bucharest (Romania).
 * 2019, 50èmes Journées de Statistique (JDS2019), Nancy.
 * 2018, 49èmes Journées de Statistique (JDS2018), Paris-Saclay.
