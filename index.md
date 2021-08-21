@@ -18,4 +18,4 @@ I did an **two-year's apprenticeship** at both [LMRS](http://lmrs.univ-rouen.fr/
 [Curriculum Vitae (in french)](img/cv_MSautreuil.pdf)
 <br>
 
-[Manuscrit](https://tel.archives-ouvertes.fr/tel-03278955/document) and [Slides of PhD defense](img/soutenance_MSautreuil.pdf)
+[Manuscrit](https://tel.archives-ouvertes.fr/tel-03278955) and [Slides of PhD defense](img/soutenance_MSautreuil.pdf)
