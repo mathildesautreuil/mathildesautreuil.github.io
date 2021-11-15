@@ -3,9 +3,9 @@ layout: page
 ---
 
 <div class="text-center">
-  <h1> Mathilde Sautreuil</h1>
+  <h2> Mathilde Sautreuil</h2>
   <hr>
-  <h2> About me</h2>
+  <h3> About me</h3>
 </div>
   <br/>
 
