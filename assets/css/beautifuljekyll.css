@@ -23,8 +23,7 @@ details[open] {
     padding: 0px 50px 0px;
 }
 summary {
-    color: {{ site.navbar-text-col | default: "#404040" }};
-    margin:  0 0 0.9375rem 1.5625rem;    
+    color: {{ site.navbar-text-col | default: "#404040" }};   
     outline:none;
 }
 details summary {
