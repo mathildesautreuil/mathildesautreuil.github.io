@@ -12,16 +12,20 @@ html {
 
 
 details {
+    line-height: 1.5;
+    margin: 1.875rem 0;
     border-radius: 10px;
     padding: 4px 4px;
     margin-bottom: 15px;
 }
+
 details[open] {
     background:  {{ site.navbar-col | default: "#EAEAEA" }};
     padding: 4px 4px 8px 8px;
 }
 summary {
-    margin: 4px 4px 8px 0px;
+    color: {{ site.navbar-text-col | default: "#404040" }};
+    margin: 1.875rem 0;    
     outline:none;
 }
 details summary {
