@@ -12,16 +12,14 @@ html {
 
 
 details {
-    line-height: 1.5;
-    margin: 1.875rem 0;
+    margin: 0;
     border-radius: 10px;
-    padding: 4px 4px;
-    margin-bottom: 15px;
+    padding: 10px 50px 20px;
 }
 
 details[open] {
     background:  {{ site.navbar-col | default: "#EAEAEA" }};
-    padding: 4px 4px 8px 8px;
+    padding: 10px 50px 20px;
 }
 summary {
     color: {{ site.navbar-text-col | default: "#404040" }};
