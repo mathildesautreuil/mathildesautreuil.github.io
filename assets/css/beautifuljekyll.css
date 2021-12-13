@@ -10,6 +10,24 @@ html {
   font-size: 100%
 }
 
+
+details {
+    border-radius: 10px;
+    padding: 4px 4px;
+    margin-bottom: 15px;
+}
+details[open] {
+    background:  {{ site.navbar-col | default: "#EAEAEA" }};
+    padding: 4px 4px 8px 8px;
+}
+summary {
+    margin: 4px 4px 8px 0px;
+    outline:none;
+}
+details summary {
+    color:  {{ site.text-col | default: "#404040" }};
+}
+
 body {
   font-family: 'Lora', 'Times New Roman', serif;
   font-size: 1.125rem;
