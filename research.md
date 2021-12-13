@@ -37,12 +37,22 @@ layout: page
 * 2017, Journée NormaSTIC (axe Données, Apprentissage, Connaissance), Rouen.
 
 ### Seminars
+
+<details>
+<summary>November 2021, Laboratoire de Biologie Moléculaire et Cellulaire (LBMC), ENS, Lyon. <br>
+<b class="term">Contributions à l’analyse de survie et à la détection de marqueurs en oncologie</b> (Click here to see the abstract) </summary>
+<p>
+Résumé : <br>
+Dans cette présentation, je présente mes principaux travaux de recherche réalisés pendant ma thèse. Dans une première partie, je présente les contributions concernant la détection de marqueurs dans le cadre du cancer du rein à cellules claires (ccRCC). Dans un premier temps, j'ai mis en place une méthode d'analyse différentielle et d'apprentissage statistique qui a permis de mettre en évidence une cible thérapeutique potentielle pour le ccRCC. Dans un second temps, je présente succinctement l'étude de stabilité des méthodes de sélection de variables dans le cadre du modèle de Cox en grande dimension. Dans la deuxième partie de cet exposé, je présente mes travaux sur l'étude des réseaux de neurones pour prédire la survie à partir de données RNA-seq en oncologie.
+</p>
+</details>
+<details>
 <details>
 <summary>June 2021, Centre National de la Recherche en Génomique Humaine (CNRGH), CEA, Évry. <br>
 <b class="term">Contributions à l’analyse de survie et à la détection de marqueurs en oncologie</b> (Click here to see the abstract) </summary>
 <p>
 Résumé : <br>
-to complete...
+Dans cette présentation, je présente mes principaux travaux de recherche réalisés pendant ma thèse. Dans une première partie, je présente les contributions concernant la détection de marqueurs dans le cadre du cancer du rein à cellules claires (ccRCC). Dans un premier temps, j'ai mis en place une méthode d'analyse différentielle et d'apprentissage statistique qui a permis de mettre en évidence une cible thérapeutique potentielle pour le ccRCC. Dans un second temps, je présente succinctement l'étude de stabilité des méthodes de sélection de variables dans le cadre du modèle de Cox en grande dimension. Dans la deuxième partie de cet exposé, je présente mes travaux sur l'étude des réseaux de neurones pour prédire la survie à partir de données RNA-seq en oncologie.
 </p>
 </details>
 <details>
