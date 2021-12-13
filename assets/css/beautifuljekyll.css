@@ -12,12 +12,12 @@ html {
 
 
 details {
-    margin: 0;
+    margin: 0 0 0.9375rem 1.5625rem;
     border-radius: 10px;
 }
 
 details[open] {
-    margin: 0;
+    margin: 0 0 0.9375rem 1.5625rem;
     color: {{ site.link-col | default: "#008AFF" }};
 }
 summary {
