@@ -12,7 +12,7 @@ html {
 
 
 details {
-    margin: 0 0 0.9375rem 1.5625rem;
+    margin: 0;
     border-radius: 10px;
     padding: 0px 50px 0px;
 }
