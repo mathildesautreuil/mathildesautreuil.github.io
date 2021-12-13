@@ -14,12 +14,13 @@ html {
 details {
     margin: 0;
     border-radius: 10px;
-    padding: 10px 50px 20px;
+    padding: 0px 50px 0px;
 }
 
 details[open] {
+    margin: 0;
     background:  {{ site.navbar-col | default: "#EAEAEA" }};
-    padding: 10px 50px 20px;
+    padding: 0px 50px 0px;
 }
 summary {
     color: {{ site.navbar-text-col | default: "#404040" }};
