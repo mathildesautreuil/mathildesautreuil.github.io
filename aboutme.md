@@ -3,6 +3,7 @@ layout: page
 title: About me
 description: Université Paris-Saclay, CentraleSupélec, MICS <a href = 'https://www.linkedin.com/in/mathilde-sautreuil-42612aa6'> <span class = 'fab fa-linkedin'> </span></a> <a href = 'https://www.linkedin.com/in/mathilde-sautreuil-42612aa6'> <span class = 'fab fa-github-square'></span> </a>
 ---
+
 In February 2022, I joined as engineer the [BU Omics](https://www.soladisomics.fr/) of [Soladis Group by Efor](https://www.soladis.com/). Soladis is a group specialized in managing projects around data, and the BU Omics handle the bioinformatics and biostatistics analysis of various field data. I work with [Servier](https://www.servier.fr/), an international pharmaceutic group. I aim to support the quantitative pharmacology department.
 
 Before, I was an Resaearch engineer within Statistique and genome of the [LaMME](http://www.math-evry.cnrs.fr/welcome){:target="\_blank"} at Evry University and the Gnet team of the IPS2 (Plant institute of Paris-Saclay). My research work consists to detect PPR footprints by using machine learning methods at Arabidopsis Thaliana.
